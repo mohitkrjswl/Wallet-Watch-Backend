@@ -5,14 +5,8 @@
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
-<<<<<<< HEAD
-    "server": "nodemon server.js"
-=======
-    "server": "nodemon server.js",
-    "client": "npm start --prefix client",
-    "dev": "concurrently \"npm start\" \"npm run client\" "
->>>>>>> 3ba457a37903ac3ae34078ba16b500d38e77eb11
-  },
+    "test": "echo \"Error: no test specified\" && exit 1"
+    },
   "keywords": [],
   "author": "Mohit kr Jaiswal",
   "license": "ISC",
